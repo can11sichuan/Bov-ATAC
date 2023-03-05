@@ -1,5 +1,5 @@
 # Bov-ATAC
-## To get the ATAC-seq peak, we follow [Encode](https://www.encodeproject.org/data-standards/atac-seq/atac-encode4/)  
+## ATAC-seq peak calling, we follow [Encode](https://www.encodeproject.org/data-standards/atac-seq/atac-encode4/)  
 ## To generate and annotate the peak we borrow the idea developed by [Meuleman](https://github.com/Altius/)  
 ## In eQTL analysis, we follow [GTEX](https://gtexportal.org/home/methods)  
 ## Enrichment analysis, we using [goshifter](https://github.com/immunogenomics/goshifter) developed by Trynka 
