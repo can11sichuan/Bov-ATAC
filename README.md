@@ -6,6 +6,6 @@
 ## In eQTL analysis, we follow [GTEX](https://gtexportal.org/home/methods)  
 ## Enrichment analysis, we using [goshifter](https://github.com/immunogenomics/goshifter) developed by Trynka 
 ## Estimation of fa
-By combining eQTL and ATAC-Seq, we estimate proportion of regulatory variants mapping to ATAC-Seq based on Maximum Likelihood  
+   By combining eQTL and ATAC-Seq, we estimate proportion of regulatory variants mapping to ATAC-Seq based on Maximum Likelihood  
 ## Data availability  
-Please check on UCSC genome brower [ATAC-seq-UCSC](http://genome.ucsc.edu/s/can_sichuan/bosTau9_atac)  
+   Please check on UCSC genome brower [ATAC-seq-UCSC](http://genome.ucsc.edu/s/can_sichuan/bosTau9_atac)  
