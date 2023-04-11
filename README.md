@@ -12,4 +12,4 @@
 ## Estimation of fa
 By combining eQTL and ATAC-Seq, we estimate proportion of regulatory variants mapping to ATAC-Seq based on Maximum Likelihood  
 ## Data availability  
-Please check on UCSC genome brower [ATAC-seq-UCSC](http://genome.ucsc.edu/s/can_sichuan/bosTau9_atac)  
+Please check on UCSC genome brower [ATAC-seq-UCSC](https://www.gigauag.uliege.be/cms/c_4791343/en/gigauag-diagnostics-software-data)  
